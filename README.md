@@ -1,4 +1,5 @@
-#Rest Assured API Testing BDD  
+# Rest Assured API Testing BDD  
+
 **Overview**  
 This repository contains examples of API testing using Rest Assured with BDD approach in Java. It covers CRUD operations, JSON validation, and test automation.  
 
