@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-11T19:11:17 IST" name="Default suite" finished-at="2026-03-11T19:11:24 IST" duration-ms="6826">
+    <groups>
+    </groups>
+    <test started-at="2026-03-11T19:11:17 IST" name="Default test" finished-at="2026-03-11T19:11:24 IST" duration-ms="6826">
+      <class name="restassuredTests.BasicValidations_JSON">
+        <test-method signature="testStatusCode()[pri:1, instance:restassuredTests.BasicValidations_JSON@3023df74]" started-at="2026-03-11T19:11:17 IST" name="testStatusCode" finished-at="2026-03-11T19:11:19 IST" duration-ms="2570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method signature="testLogging()[pri:2, instance:restassuredTests.BasicValidations_JSON@3023df74]" started-at="2026-03-11T19:11:19 IST" name="testLogging" finished-at="2026-03-11T19:11:20 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogging -->
+        <test-method signature="testSingleContent()[pri:3, instance:restassuredTests.BasicValidations_JSON@3023df74]" started-at="2026-03-11T19:11:20 IST" name="testSingleContent" finished-at="2026-03-11T19:11:21 IST" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleContent -->
+        <test-method signature="testMultipleContents()[pri:4, instance:restassuredTests.BasicValidations_JSON@3023df74]" started-at="2026-03-11T19:11:21 IST" name="testMultipleContents" finished-at="2026-03-11T19:11:22 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleContents -->
+        <test-method signature="testParamsAndHeaders()[pri:5, instance:restassuredTests.BasicValidations_JSON@3023df74]" started-at="2026-03-11T19:11:22 IST" name="testParamsAndHeaders" finished-at="2026-03-11T19:11:24 IST" duration-ms="1924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParamsAndHeaders -->
+      </class> <!-- restassuredTests.BasicValidations_JSON -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
